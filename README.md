@@ -1,4 +1,4 @@
-# ASTC Encoder server
+# ASTC Encoder Service
 
 This tool is meant to integrate your infrastructure and provide realtime resource
 (images, textures) conversion to the ASTC compressed data format.
